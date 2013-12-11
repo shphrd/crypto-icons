@@ -1,7 +1,8 @@
 
 #[Crypto Icons v1.0](http://shphrd.com/crypto-icons)
-###An icon pack for the most popular crypto currencies today.  
+[![Main Crypto Coin Logos](main-coins.png)](https://raw.github.com/shphrd/cryptocurrency-icons/master/main-coins.png)
 
+###An icon pack for the most popular crypto currencies today.  
 Crypto Icons are scalable vector graphics that can be used on your websites or apps. Created and
 maintained by [Chris Shepherd](http://twitter.com/cshphrd).
 
@@ -14,7 +15,7 @@ maintained by [Chris Shepherd](http://twitter.com/cshphrd).
 - GitHub: https://github.com/shphrd
 
 ##Support
-Send a pull request with other popular crypto currency icons OR buy me a coffee so I keep updated.
+Send a pull request with other popular crypto currency icons __OR__ buy me a coffee so I keep updated.
 
 - **BTC:** 1DmKSveQm9MXMjqUGvaVXZgViNZuSx7Npi
 - **LTC:** LZLWQV1nQZoWvj8CiK2hMQ1bosntT1xkPm
