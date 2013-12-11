@@ -1,6 +1,6 @@
 
 #[Crypto Icons v1.0](http://shphrd.com/crypto-icons)
-###An icon pack for the most popular Crypto currencies today.  
+###An icon pack for the most popular crypto currencies today.  
 
 Crypto Icons are scalable vector graphics that can be used on your websites or apps. Created and
 maintained by [Chris Shepherd](http://twitter.com/cshphrd).
