@@ -21,3 +21,6 @@ Send a pull request with other popular crypto currency icons __OR__ buy me a cof
 - **LTC:** LZLWQV1nQZoWvj8CiK2hMQ1bosntT1xkPm
 - **PPC:** PADhWNeQw3owGD8N25BDVeQh8C1z94PEsu
 - **QRK:** Qju9EZWTW4uSN2uXi6T3reP4SeyTLC2ncX
+
+## License
+[Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en_US)
