@@ -1,5 +1,7 @@
 
-#[Crypto Icons v1.0](http://shphrd.com/crypto-icons)
+#[Crypto Icons v1.1](http://shphrd.com/crypto-icons)
+[![Colored Crypto Coins](colored-coins.png)](https://raw.github.com/shphrd/cryptocurrency-icons/master/main-coins.png)
+
 [![Main Crypto Coin Logos](main-coins.png)](https://raw.github.com/shphrd/cryptocurrency-icons/master/main-coins.png)
 
 ###An icon pack for the most popular crypto currencies today.  
@@ -7,7 +9,8 @@ Crypto Icons are scalable vector graphics that can be used on your websites or a
 maintained by [Chris Shepherd](http://twitter.com/cshphrd).
 
 ##Changelog
-- v1.0.0 - Added top five crypto coin icons. Currently includes Bitcoin, Litecoin, Peercoin, Namecoin and Quarkcoin.
+- v1.1 - Colors! More coins supports Dogecoin, Ripple, Primecoin, Feathercoin, Auroracoin, NXT, and Megacoin. 
+- v1.0 - Added top five crypto coin icons. Currently includes Bitcoin, Litecoin, Peercoin, Namecoin and Quarkcoin.
 
 ##Author
 - Email: chris@shphrd.com
