@@ -2,8 +2,6 @@
 #[Crypto Icons v1.1](http://shphrd.com/crypto-icons)
 [![Colored Crypto Coins](colored-coins.png)](https://raw.github.com/shphrd/cryptocurrency-icons/master/main-coins.png)
 
-[![Main Crypto Coin Logos](main-coins.png)](https://raw.github.com/shphrd/cryptocurrency-icons/master/main-coins.png)
-
 ###An icon pack for the most popular crypto currencies today.  
 Crypto Icons are scalable vector graphics that can be used on your websites or apps. Created and
 maintained by [Chris Shepherd](http://twitter.com/cshphrd).
