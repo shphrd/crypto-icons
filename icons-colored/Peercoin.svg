@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="331px" height="331px" viewBox="0 0 331 331" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Peercoin</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Imported-Layers" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)">
+            <path d="M329.083,164.503 C329.083,255.425 255.377,329.131 164.456,329.131 C73.534,329.131 -0.172,255.425 -0.172,164.503 C-0.172,73.582 73.534,-0.124 164.456,-0.124 C255.377,-0.124 329.083,73.582 329.083,164.503" id="Fill-1" fill="#1ABC9C" sketch:type="MSShapeGroup"></path>
+            <path d="M294.131,164.505 C294.131,236.118 236.074,294.179 164.457,294.179 C92.841,294.179 34.78,236.118 34.78,164.505 C34.78,92.885 92.841,34.828 164.457,34.828 C236.074,34.828 294.131,92.885 294.131,164.505" id="Fill-2" fill="#1ABC9C" sketch:type="MSShapeGroup"></path>
+            <path d="M241.602,216.014 C235.009,233.368 228.005,242.865 213.273,252.761 C213.866,250.261 214.498,247.747 214.957,245.186 C223.673,196.532 207.16,137.99 126.391,105.651 C190.653,142.701 216.585,208.619 186.619,251.171 C135.612,258.939 98.335,216.74 98.335,168.124 C98.335,168.124 93.797,116.751 98.335,79.465 C218.521,83.771 264.868,153.65 241.602,216.014" id="Fill-3" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
