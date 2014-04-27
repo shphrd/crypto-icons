@@ -36,7 +36,7 @@ maintained by [Chris Shepherd](http://twitter.com/cshphrd).
 
 | [Nxt](http://www.nxtcommunity.org)
 |:---:|
-| <a href="Nxt@2x.png"><img width=140 src="color-icons/png/@2x/Nxt@2x.png" alt="Nxt logo"></a> |
+| <a href="Nxt@2x.png"><img width=140 src="color-icons/png/@2x/NXT@2x.png" alt="Nxt logo"></a> |
 
 ### Namecoin
 
