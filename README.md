@@ -96,7 +96,6 @@ maintained by [Chris Shepherd](http://twitter.com/cshphrd).
 - GitHub: https://github.com/shphrd
 
 ##Support
-Send a pull request with other popular crypto currency icons __OR__ buy me a coffee so I keep updated.
 
 - **BTC:** 1DmKSveQm9MXMjqUGvaVXZgViNZuSx7Npi
 - **LTC:** LZLWQV1nQZoWvj8CiK2hMQ1bosntT1xkPm
