@@ -52,7 +52,7 @@ maintained by [Chris Shepherd](http://twitter.com/cshphrd).
 
 ### Auroracoin
 
-| [Auroracoin](http://www.peercoin.net)
+| [Auroracoin](http://auroracoin.org)
 |:---:|
 | <a href="Auroracoin@2x.png"><img width=140 src="color-icons/png/@2x/Auroracoin@2x.png" alt="Auroracoin logo"></a> |
 
