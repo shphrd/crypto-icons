@@ -99,6 +99,7 @@ maintained by [Chris Shepherd](http://twitter.com/cshphrd).
 
 - **BTC:** 1DmKSveQm9MXMjqUGvaVXZgViNZuSx7Npi
 - **LTC:** LZLWQV1nQZoWvj8CiK2hMQ1bosntT1xkPm
+- **DOGE** DLdiRd5LtxefkgKeBgXnVBiAjv2bTnfYzj
 - **PPC:** PADhWNeQw3owGD8N25BDVeQh8C1z94PEsu
 
 ## License
