@@ -91,7 +91,7 @@ maintained by [Chris Shepherd](http://twitter.com/cshphrd).
 - v1.0 - Added top five crypto coin icons. Currently includes Bitcoin, Litecoin, Peercoin, Namecoin and Quarkcoin.
 
 ##Author
-- Email: chris@shphrd.com
+- Email: chris@hashrabbit.co
 - Twitter: http://twitter.com/cshphrd
 - GitHub: https://github.com/shphrd
 
