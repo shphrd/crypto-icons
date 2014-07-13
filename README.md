@@ -81,26 +81,38 @@ maintained by [Chris Shepherd](http://twitter.com/cshphrd).
 | <a href="Megacoin@2x.png"><img width=140 src="color-icons/png/@2x/Megacoin@2x.png" alt="Megacoin logo"></a> |
 
 
+TODO
+----
+- [] Vertcoin
+- [] Darkcoin 
+- [] Mac icons for QT apps
+	- Bitcoin Core
+ 	- Litecoin QT
+ 	- Peercoin
+ 
 
 
 
-
-##Changelog
+Changelog
+---------
 - v1.2 - Cleaned up src files, exported more coins, updated readme.
 - v1.1 - Colors! More coins supports Dogecoin, Ripple, Primecoin, Feathercoin, Auroracoin, NXT, and Megacoin. 
 - v1.0 - Added top five crypto coin icons. Currently includes Bitcoin, Litecoin, Peercoin, Namecoin and Quarkcoin.
 
-##Author
+Author
+------
 - Email: chris@hashrabbit.co
 - Twitter: http://twitter.com/cshphrd
 - GitHub: https://github.com/shphrd
 
-##Support
+Support
+-------
 
 - **BTC:** 1DmKSveQm9MXMjqUGvaVXZgViNZuSx7Npi
 - **LTC:** LZLWQV1nQZoWvj8CiK2hMQ1bosntT1xkPm
 - **DOGE** DLdiRd5LtxefkgKeBgXnVBiAjv2bTnfYzj
 - **PPC:** PADhWNeQw3owGD8N25BDVeQh8C1z94PEsu
 
-## License
+License
+-------
 [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en_US)
