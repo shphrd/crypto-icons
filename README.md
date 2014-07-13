@@ -83,13 +83,9 @@ maintained by [Chris Shepherd](http://twitter.com/cshphrd).
 
 TODO
 ----
-- [] Vertcoin
-- [] Darkcoin 
-- [] Mac icons for QT apps
-	- Bitcoin Core
- 	- Litecoin QT
- 	- Peercoin
- 
+- [ ] Vertcoin
+- [ ] Darkcoin 
+- [ ] Mac icons for QT apps
 
 
 
